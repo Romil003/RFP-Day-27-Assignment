@@ -1,0 +1,1 @@
+AddressBook{contacts=[Contact{firstName='a', lastName='z', address='x', city='c', state='d', zipcode=3, phoneNumber=4, email='r'}]}
